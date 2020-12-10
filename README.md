@@ -5,3 +5,5 @@
   snake - 3 часа
   
   rock-scissors-paper - 2 часа
+
+  tic-tac-toe - * часа
