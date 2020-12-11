@@ -6,4 +6,4 @@
   
   rock-scissors-paper - 2 часа
 
-  tic-tac-toe - 1 часа
+  tic-tac-toe - 1 час
