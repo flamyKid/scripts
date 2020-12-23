@@ -1,8 +1,9 @@
 # Ghost Game
-The beginning of this very small project was like this:
+Начало этого совсем небольшого проекта было такое:
 
-In 2016, in June, right at the beginning, I came up with the idea to create my own game. But after a while, I realized, that it would be very difficult for "an almost 12-year-old boy". And, I, with pain in my heart because it was very interesting for me to postpone this idea for a couple of years. "Until 14" - as I said then.
+В 2016 году в июне, прям в самом начале, мне пришла в голову идея создать свою игру. Но через какое то время, я понял, что это будет очень трудно "почти 12-ти летнему мальчику". И я, с болью на сердце т.к мне было очень интересно, решил отложить эту затею на пару лет. "До 14-ти" - как тогда сказал я.
 
-And so, on September 13, 2018 I decided to start. In 2015, like my mother bought me a book "Programming for children" with scratch and python. So I decided to start with python, because a couple of days ago I was looking at scratch and it didn't work for me (especially not for me). that it is some kind of childish). And so I created my first program from the book - Ghost Game (the original script without changes in first_script file). This is how I entered the programming world.
+И вот, 13 сентября 2018 года я решил начать. В 2015 вроде году мне мама купила книгу "Программирование для детей" со scratch и python. И я решил начать с python, потому что пару дней назад я рассматривал scratch и мне не зашло(тем более что он какой то детский). И вот я создал по книге свою первую программу - Ghost Game(первоначальный скрипт без изменений в файле first_script). Так я вошел в мир программирования.
 
-After 1.5 years - 20.04.2020, I solved the problems with Tproger and GeekBrains, and connected the flash drive to save my scripts and found my first script. I opened it, played it, transferred it to PyCharm and then I came up with the idea to change it and add new chips. During this day (20.04.2020) I completely rewritten the code and it turned out as in the script ghost_game.
+Через 1.5 года - 20.04.2020 я решал задачи с Tproger и GeekBrains, и подключил флешку, что бы сохранить свои
+скрипты и нашел мой перый скрипт. Я открыл, поиграл, перенес в PyCharm и тут мне пришла в голову идея изменить его и добавить новых фишек. За этот день(20.04.2020) я полностью переписал код и получилось, как в скрипте ghost_game.
