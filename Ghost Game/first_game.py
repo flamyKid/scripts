@@ -40,7 +40,7 @@ while True:
         print('Run, men!')
         print('Yours score:', score)
     ghost_game()
-    answer = input('Want to start the game again? Enter \'y\' or \'n\')
+    answer = input('Want to start the game again? Enter \'y\' or \'n\'')
     if answer == 'y':
         ghost_game()
     else:
