@@ -12,7 +12,7 @@ while True:
 
         while feeling_brave:
             ghost_door = randint(1, 3)
-            print("You see 3 doors...")
+            print('You see 3 doors...')
             print ('There\'s a ghost in one of them.')
             print ('Which one will you open?')
             door = input('1, 2, или 3?')
