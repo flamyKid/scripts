@@ -14,7 +14,7 @@ screen = pygame.display.set_mode((width, height))
 pygame.display.set_caption('Snake game')
 clock = pygame.time.Clock()
 
-font_style = pygame.font.SysFont("arial", 15)
+font_style = pygame.font.SysFont('arial', 15)
 score_font = pygame.font.SysFont('arial', 25)
 
 
