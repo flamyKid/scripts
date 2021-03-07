@@ -1,3 +1,4 @@
+# это мой самый первый скрипт(от 13.09.2018)
 from random import randint
 
 
