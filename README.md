@@ -25,7 +25,7 @@
   - [Нейронные сети и обработка текста](https://stepik.org/course/54098/promo)
 
 
-# Дополнительный план изучения Data Science
+# Дополнительно к плану изучения Data Science
 - Язык программирования R
   - [Основы программирования на R](https://stepik.org/course/497/promo#toc)
   - [Анализ данных в R](https://stepik.org/course/129/promo)
