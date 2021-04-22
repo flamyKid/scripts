@@ -18,7 +18,6 @@
 - Машинное обучение
   - [Введение в Data Science и машинное обучение](https://stepik.org/course/4852/promo)
   - [Введение в машинное обучение](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie)
-  - [Машинное обучение](https://www.youtube.com/watch?v=OAy96yiWohk&list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl)
   - [Машинное обучение и анализ данных](https://www.coursera.org/specializations/machine-learning-data-analysis?aid=true#courses)
   - [Нейронные сети](https://stepik.org/course/401/promo)
   - [Нейронные сети и компьютерное зрение](https://stepik.org/course/50352/promo)
@@ -36,8 +35,9 @@
   - [Основы статистики. Часть 3](https://stepik.org/course/2152/promo)
 
 - Другое
-  - [Deep Learning на пальцах](https://dlcourse.ai/)
   - [Основы Git](https://stepik.org/course/3145/promo)
+  - [Машинное обучение (с ods.ai)](https://www.youtube.com/watch?v=OAy96yiWohk&list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl)
+  - [Deep Learning на пальцах (с ods.ai)](https://dlcourse.ai/)
   - [Введение в Linux](https://stepik.org/course/73/promo)
   - [Полный курс по теории графов](https://stepik.org/course/5608/promo)
   - [Свободное погружение в СУБД](https://stepik.org/course/70710/promo)
