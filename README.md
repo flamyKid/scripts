@@ -1,9 +1,9 @@
 # План изучения Data Science
 1. Основы программирования
- - ["Изучаем python" М.Лутц](https://codernet.ru/books/python/izuchaem_python_4-e_izdanie_mark_lutc/)
- - [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/promo)
- - [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/promo)
- - [Основы теории графов](https://stepik.org/course/126/promo)
+  - ["Изучаем python" М.Лутц](https://codernet.ru/books/python/izuchaem_python_4-e_izdanie_mark_lutc/)
+  - [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/promo)
+  - [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/promo)
+  - [Основы теории графов](https://stepik.org/course/126/promo)
 
 2. Математика
  - [Линейная алгебра](https://stepik.org/course/2461/promo)
@@ -17,7 +17,12 @@
 
 4. Машинное обучение
  - [Введение в Data Science и машинное обучение](https://stepik.org/course/4852/promo)
- - []
+ - [Введение в машинное обучение](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie)
+ - [Машинное обучение](https://www.youtube.com/watch?v=OAy96yiWohk&list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl)
+ - [Машинное обучение и анализ данных](https://www.coursera.org/specializations/machine-learning-data-analysis?aid=true#courses)
+ - [Нейронные сети](https://stepik.org/course/401/promo)
+ - [Нейронные сети и компьютерное зрение](https://stepik.org/course/50352/promo)
+ - [Нейронные сети и обработка текста](https://stepik.org/course/54098/promo)
 
 
 # Дополнительный план изучения Data Science
@@ -34,5 +39,5 @@
  - [Deep Learning на пальцах](https://dlcourse.ai/)
  - [Основы Git](https://stepik.org/course/3145/promo)
  - [Введение в Linux](https://stepik.org/course/73/promo)
- - [Теория графов](https://stepik.org/course/5608/promo)
+ - [Полный курс по теории графов](https://stepik.org/course/5608/promo)
  - [Свободное погружение в СУБД](https://stepik.org/course/70710/promo)
