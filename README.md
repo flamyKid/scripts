@@ -5,17 +5,17 @@
   - [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/promo)
   - [Основы теории графов](https://stepik.org/course/126/promo)
 
-- 2. Математика
+- Математика
  - [Линейная алгебра](https://stepik.org/course/2461/promo)
  - [Математический анализ](https://stepik.org/course/95/promo)
  - [Теория вероятностей](https://stepik.org/course/3089/promo)
  - [Основы статистики](https://stepik.org/course/76/promo)
 
-3. Базы данных
+- Базы данных
  - [Интерактивный тренажер по SQL](https://stepik.org/course/63054/promo)
  - [Hadoop. Система для обработки больших объемов данных](https://stepik.org/course/150/promo)
 
-4. Машинное обучение
+- Машинное обучение
  - [Введение в Data Science и машинное обучение](https://stepik.org/course/4852/promo)
  - [Введение в машинное обучение](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie)
  - [Машинное обучение](https://www.youtube.com/watch?v=OAy96yiWohk&list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl)
@@ -26,16 +26,16 @@
 
 
 # Дополнительный план изучения Data Science
-1. Язык программирования R
+- Язык программирования R
  - [Основы программирования на R](https://stepik.org/course/497/promo#toc)
  - [Анализ данных в R](https://stepik.org/course/129/promo)
  - [Анализ данных в R. Часть 2](https://stepik.org/course/724/promo)
 
-2. Статистика
+- Статистика
  - [Основы статистики. Часть 2](https://stepik.org/course/524/promo)
  - [Основы статистики. Часть 3](https://stepik.org/course/2152/promo)
 
-3. Другое
+- Другое
  - [Deep Learning на пальцах](https://dlcourse.ai/)
  - [Основы Git](https://stepik.org/course/3145/promo)
  - [Введение в Linux](https://stepik.org/course/73/promo)
