@@ -18,10 +18,10 @@
 - Машинное обучение
   - [Введение в Data Science и машинное обучение](https://stepik.org/course/4852/promo)
   - [Введение в машинное обучение](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie)
-  - [Машинное обучение и анализ данных](https://www.coursera.org/specializations/machine-learning-data-analysis?aid=true#courses)
   - [Нейронные сети](https://stepik.org/course/401/promo)
   - [Нейронные сети и компьютерное зрение](https://stepik.org/course/50352/promo)
   - [Нейронные сети и обработка текста](https://stepik.org/course/54098/promo)
+  - [Машинное обучение и анализ данных](https://www.coursera.org/specializations/machine-learning-data-analysis?aid=true#courses)
 
 
 # Дополнительно (углубление)
