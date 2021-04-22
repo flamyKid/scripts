@@ -1,9 +1,9 @@
 # План изучения Data Science
 1. Основы программирования
- - ["Изучаем python" М.Лутц](https://codernet.ru/books/python/izuchaem_python_4-e_izdanie_mark_lutc/)
- - [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/promo)
- - [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/promo)
- - [Основы теории графов](https://stepik.org/course/126/promo)
+  - ["Изучаем python" М.Лутц](https://codernet.ru/books/python/izuchaem_python_4-e_izdanie_mark_lutc/)
+  - [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/promo)
+  - [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/promo)
+  - [Основы теории графов](https://stepik.org/course/126/promo)
 
 2. Математика
  - [Линейная алгебра](https://stepik.org/course/2461/promo)
