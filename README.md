@@ -35,9 +35,9 @@
   - [Основы статистики. Часть 3](https://stepik.org/course/2152/promo)
 
 - Другое
-  - [Основы Git](https://stepik.org/course/3145/promo)
   - [Машинное обучение (с ods.ai)](https://www.youtube.com/watch?v=OAy96yiWohk&list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl)
   - [Deep Learning на пальцах (с ods.ai)](https://dlcourse.ai/)
+  - [Основы Git](https://stepik.org/course/3145/promo)
   - [Введение в Linux](https://stepik.org/course/73/promo)
   - [Полный курс по теории графов](https://stepik.org/course/5608/promo)
   - [Свободное погружение в СУБД](https://stepik.org/course/70710/promo)
