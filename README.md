@@ -1,4 +1,4 @@
-# План изучения Data Science(основы)
+# План Data Science (основы)
 - Основы программирования
   - ["Изучаем python" М.Лутц](https://codernet.ru/books/python/izuchaem_python_4-e_izdanie_mark_lutc/)
   - [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/promo)
@@ -25,7 +25,7 @@
   - [Нейронные сети и обработка текста](https://stepik.org/course/54098/promo)
 
 
-# Дополнительно(углубление)
+# Дополнительно (углубление)
 - Язык программирования R
   - [Основы программирования на R](https://stepik.org/course/497/promo#toc)
   - [Анализ данных в R](https://stepik.org/course/129/promo)
