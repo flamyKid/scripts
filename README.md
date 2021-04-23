@@ -1,5 +1,3 @@
-lacov11239@zcai66.com - iloveyou
-
 # План Data Science (основы)
 - Основы программирования
   - ["Изучаем python" М.Лутц](https://codernet.ru/books/python/izuchaem_python_4-e_izdanie_mark_lutc/)
@@ -14,14 +12,14 @@ lacov11239@zcai66.com - iloveyou
   - [Основы статистики](https://stepik.org/course/76/promo)
 
 - Базы данных
-  - [Интерактивный тренажер по SQL](https://stepik.org/course/63054/promo)
+  - [Курс по SQl](https://stepik.org/course/63054/promo)
   - [Hadoop. Система для обработки больших объемов данных](https://stepik.org/course/150/promo)
 
 - Машинное обучение
   - [Введение в Data Science и машинное обучение](https://stepik.org/course/4852/promo)
-  - [Машинное обучение (с ods.ai)](https://www.youtube.com/watch?v=OAy96yiWohk&list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl)
-  - [Нейронные сети](https://stepik.org/course/401/promo)
-  - [Deep Learning на пальцах (с ods.ai)](https://dlcourse.ai/)
+  - [Курс по машинному обучению](https://www.youtube.com/watch?v=OAy96yiWohk&list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl)
+  - [Курс по глубокому обучению](https://dlcourse.ai/)
+  - [Курс по нейронным сетям](https://stepik.org/course/401/promo)
   - [Нейронные сети и компьютерное зрение](https://stepik.org/course/50352/promo)
   - [Нейронные сети и обработка текста](https://stepik.org/course/54098/promo)
 
@@ -41,4 +39,4 @@ lacov11239@zcai66.com - iloveyou
   - [Введение в Linux](https://stepik.org/course/73/promo)
   - [Полный курс по теории графов](https://stepik.org/course/5608/promo)
   - [Свободное погружение в СУБД](https://stepik.org/course/70710/promo)
-  - [Машинное обучение и анализ данных](https://www.coursera.org/specializations/machine-learning-data-analysis?aid=true#courses)
+  - [Машинное обучение и анализ данных(специализация)](https://www.coursera.org/specializations/machine-learning-data-analysis?aid=true#courses)
