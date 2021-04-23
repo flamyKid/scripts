@@ -4,7 +4,7 @@
   - [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/promo)
   - [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/promo)
   - [Основы теории графов](https://stepik.org/course/126/promo)
-  - [Курс по SQl](https://stepik.org/course/63054/promo)
+  - [Основы SQl](https://stepik.org/course/63054/promo)
 
 - Математика
   - [Линейная алгебра](https://stepik.org/course/2461/promo)
