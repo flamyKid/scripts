@@ -19,6 +19,9 @@
   - [Курс по нейронным сетям](https://stepik.org/course/401/promo)
   - [Нейронные сети и компьютерное зрение](https://stepik.org/course/50352/promo)
   - [Нейронные сети и обработка текста](https://stepik.org/course/54098/promo)
+
+- Анализ данных
+  - [Основы работы в Tableau](https://stepik.org/course/56280/promo)
   - [Hadoop. Система для обработки больших объемов данных](https://stepik.org/course/150/promo)
 
 # Дополнительно (углубление)
