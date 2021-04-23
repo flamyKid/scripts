@@ -39,4 +39,4 @@
   - [Введение в Linux](https://stepik.org/course/73/promo)
   - [Полный курс по теории графов](https://stepik.org/course/5608/promo)
   - [Свободное погружение в СУБД](https://stepik.org/course/70710/promo)
-  - [Машинное обучение и анализ данных(специализация)](https://www.coursera.org/specializations/machine-learning-data-analysis?aid=true#courses)
+  - [Машинное обучение и анализ данных (специализация)](https://www.coursera.org/specializations/machine-learning-data-analysis?aid=true#courses)
