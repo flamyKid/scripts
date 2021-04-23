@@ -1,3 +1,5 @@
+lacov11239@zcai66.com - iloveyou
+
 # План Data Science (основы)
 - Основы программирования
   - ["Изучаем python" М.Лутц](https://codernet.ru/books/python/izuchaem_python_4-e_izdanie_mark_lutc/)
@@ -17,11 +19,11 @@
 
 - Машинное обучение
   - [Введение в Data Science и машинное обучение](https://stepik.org/course/4852/promo)
-  - [Введение в машинное обучение](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie)
+  - [Машинное обучение (с ods.ai)](https://www.youtube.com/watch?v=OAy96yiWohk&list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl)
   - [Нейронные сети](https://stepik.org/course/401/promo)
+  - [Deep Learning на пальцах (с ods.ai)](https://dlcourse.ai/)
   - [Нейронные сети и компьютерное зрение](https://stepik.org/course/50352/promo)
   - [Нейронные сети и обработка текста](https://stepik.org/course/54098/promo)
-  - [Машинное обучение и анализ данных](https://www.coursera.org/specializations/machine-learning-data-analysis?aid=true#courses)
 
 
 # Дополнительно (углубление)
@@ -35,9 +37,8 @@
   - [Основы статистики. Часть 3](https://stepik.org/course/2152/promo)
 
 - Другое
-  - [Машинное обучение (с ods.ai)](https://www.youtube.com/watch?v=OAy96yiWohk&list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl)
-  - [Deep Learning на пальцах (с ods.ai)](https://dlcourse.ai/)
   - [Основы Git](https://stepik.org/course/3145/promo)
   - [Введение в Linux](https://stepik.org/course/73/promo)
   - [Полный курс по теории графов](https://stepik.org/course/5608/promo)
   - [Свободное погружение в СУБД](https://stepik.org/course/70710/promo)
+  - [Машинное обучение и анализ данных](https://www.coursera.org/specializations/machine-learning-data-analysis?aid=true#courses)
