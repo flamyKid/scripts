@@ -4,16 +4,13 @@
   - [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/promo)
   - [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/promo)
   - [Основы теории графов](https://stepik.org/course/126/promo)
+  - [Курс по SQl](https://stepik.org/course/63054/promo)
 
 - Математика
   - [Линейная алгебра](https://stepik.org/course/2461/promo)
   - [Математический анализ](https://stepik.org/course/95/promo)
   - [Теория вероятностей](https://stepik.org/course/3089/promo)
   - [Основы статистики](https://stepik.org/course/76/promo)
-
-- Базы данных
-  - [Курс по SQl](https://stepik.org/course/63054/promo)
-  - [Hadoop. Система для обработки больших объемов данных](https://stepik.org/course/150/promo)
 
 - Машинное обучение
   - [Введение в Data Science и машинное обучение](https://stepik.org/course/4852/promo)
@@ -22,7 +19,7 @@
   - [Курс по нейронным сетям](https://stepik.org/course/401/promo)
   - [Нейронные сети и компьютерное зрение](https://stepik.org/course/50352/promo)
   - [Нейронные сети и обработка текста](https://stepik.org/course/54098/promo)
-
+  - [Hadoop. Система для обработки больших объемов данных](https://stepik.org/course/150/promo)
 
 # Дополнительно (углубление)
 - Язык программирования R
