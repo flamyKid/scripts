@@ -14,7 +14,10 @@
     - [Справочник по линейной алгебре](https://elar.urfu.ru/bitstream/10995/78551/1/978-5-7996-2776-8_2019.pdf)
   - [Математический анализ](https://stepik.org/course/95/promo)
   - [Теория вероятностей](https://stepik.org/course/3089/promo)
-  - [Основы статистики](https://stepik.org/course/76/promo)
+  - Статистика
+    - [Основы статистики](https://stepik.org/course/76/promo)
+    - [Основы статистики. Часть 2](https://stepik.org/course/524/promo)
+    - [Основы статистики. Часть 3](https://stepik.org/course/2152/promo)
   - [Методы оптимизации](https://elar.urfu.ru/bitstream/10995/48965/1/978-5-7996-2090-5_2017.pdf)
 
 - Машинное обучение
@@ -28,15 +31,10 @@
   - [Основы работы в Tableau](https://stepik.org/course/56280/promo)
   - [Hadoop. Система для обработки больших объемов данных](https://stepik.org/course/150/promo)
 
-# Дополнительно (углубление)
 - Язык программирования R
   - [Основы программирования на R](https://stepik.org/course/497/promo#toc)
   - [Анализ данных в R](https://stepik.org/course/129/promo)
   - [Анализ данных в R. Часть 2](https://stepik.org/course/724/promo)
-
-- Статистика
-  - [Основы статистики. Часть 2](https://stepik.org/course/524/promo)
-  - [Основы статистики. Часть 3](https://stepik.org/course/2152/promo)
 
 - Другое
   - [Основы Git](https://stepik.org/course/3145/promo)
