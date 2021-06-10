@@ -7,7 +7,6 @@
   - [Основы SQl](https://stepik.org/course/63054/promo)
 
 - Математика
-  - [Дискретная математика](https://stepik.org/course/1127/promo)
   - [Линейная алгебра](https://stepik.org/course/2461/promo)
   - [Математический анализ](https://stepik.org/course/95/promo)
   - [Теория вероятностей](https://stepik.org/course/3089/promo)
