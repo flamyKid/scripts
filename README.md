@@ -4,11 +4,11 @@
   - [Python: основы и применение](https://stepik.org/course/512/promo)
   - [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/promo)
   - [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/promo)
-  - [Основы теории графов](https://stepik.org/course/126/promo)
   - [Основы программирования на R](https://stepik.org/course/497/promo)
 
 - Математика
   - [Дискретная математика](https://stepik.org/course/1127/promo)
+  - [Основы теории графов](https://stepik.org/course/126/promo)
   - [Линейная алгебра](https://www.youtube.com/watch?v=RNTRYicPvWQ&list=PLVjLpKXnAGLXPaS7FRBjd5yZeXwJxZil2)
   - [Математический анализ](https://stepik.org/course/95/promo)
   - [Теория вероятностей](https://stepik.org/course/3089/promo)
