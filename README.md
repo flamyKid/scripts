@@ -1,11 +1,10 @@
 # План Data Science
-- Основы программирования и базы данных
+- Основы программирования
   - [Программирование на python](https://stepik.org/course/67/promo)
   - [Python: основы и применение](https://stepik.org/course/512/promo)
   - [Основы программирования на R](https://stepik.org/course/497/promo)
   - [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/promo)
   - [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/promo)
-  - [Основы SQl](https://stepik.org/course/63054/promo)
 
 - Математика
   - [Дискретная математика](https://stepik.org/course/1127/promo)
@@ -32,9 +31,12 @@
   - [Анализ данных в R. Часть 2](https://stepik.org/course/724/promo)
   - [Hadoop. Система для обработки больших объемов данных](https://stepik.org/course/150/promo)
 
+- Базы данных
+  - [Основы SQl](https://stepik.org/course/63054/promo)
+  - [Свободное погружение в СУБД](https://stepik.org/course/70710/promo)
+
 - Другое
   - [Основы Git](https://stepik.org/course/3145/promo)
-  - [Свободное погружение в СУБД](https://stepik.org/course/70710/promo)
   - ["Изучаем python" М. Лутц](https://codernet.ru/books/python/izuchaem_python_4-e_izdanie_mark_lutc/)
   - [Справочник по линейной алгебре](https://elar.urfu.ru/bitstream/10995/78551/1/978-5-7996-2776-8_2019.pdf)
   - [Машинное обучение и анализ данных (специализация)](https://www.coursera.org/specializations/machine-learning-data-analysis?aid=true#courses)
