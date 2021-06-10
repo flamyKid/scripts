@@ -6,6 +6,11 @@
   - [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/promo)
   - [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/promo)
 
+- Базы данных
+  - [Основы SQl](https://stepik.org/course/63054/promo)
+  - [Свободное погружение в СУБД](https://stepik.org/course/70710/promo)
+  - [Hadoop. Система для обработки больших объемов данных](https://stepik.org/course/150/promo)
+
 - Математика
   - [Дискретная математика](https://stepik.org/course/1127/promo)
   - [Основы теории графов](https://stepik.org/course/126/promo)
@@ -29,11 +34,6 @@
   - [Основы работы в Tableau](https://stepik.org/course/56280/promo)
   - [Анализ данных в R](https://stepik.org/course/129/promo)
   - [Анализ данных в R. Часть 2](https://stepik.org/course/724/promo)
- 
-- Базы данных
-  - [Основы SQl](https://stepik.org/course/63054/promo)
-  - [Свободное погружение в СУБД](https://stepik.org/course/70710/promo)
-  - [Hadoop. Система для обработки больших объемов данных](https://stepik.org/course/150/promo)
 
 - Другое
   - [Основы Git](https://stepik.org/course/3145/promo)
