@@ -2,9 +2,9 @@
 - Основы программирования
   - [Программирование на python](https://stepik.org/course/67/promo)
   - [Python: основы и применение](https://stepik.org/course/512/promo)
-  - [Основы программирования на R](https://stepik.org/course/497/promo)
   - [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/promo)
   - [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/promo)
+  - [Основы программирования на R](https://stepik.org/course/497/promo)
 
 - Математика
   - [Дискретная математика](https://stepik.org/course/1127/promo)
