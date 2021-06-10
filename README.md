@@ -25,7 +25,7 @@
   - [Нейронные сети и компьютерное зрение](https://stepik.org/course/50352/promo)
   - [Нейронные сети и обработка текста](https://stepik.org/course/54098/promo)
 
-- Анализ данных
+- Анализ и обработка данных
   - [Основы работы в Tableau](https://stepik.org/course/56280/promo)
   - [Анализ данных в R](https://stepik.org/course/129/promo)
   - [Анализ данных в R. Часть 2](https://stepik.org/course/724/promo)
