@@ -4,11 +4,11 @@
   - [Python: основы и применение](https://stepik.org/course/512/promo)
   - [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/promo)
   - [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/promo)
-  - [Основы теории графов](https://stepik.org/course/126/promo)
-  - [Основы SQl](https://stepik.org/course/63054/promo)
+  - [Основы программирования на R](https://stepik.org/course/497/promo)
 
 - Математика
   - [Дискретная математика](https://stepik.org/course/1127/promo)
+  - [Основы теории графов](https://stepik.org/course/126/promo)
   - [Линейная алгебра](https://www.youtube.com/watch?v=RNTRYicPvWQ&list=PLVjLpKXnAGLXPaS7FRBjd5yZeXwJxZil2)
   - [Математический анализ](https://stepik.org/course/95/promo)
   - [Теория вероятностей](https://stepik.org/course/3089/promo)
@@ -27,16 +27,16 @@
 
 - Анализ данных
   - [Основы работы в Tableau](https://stepik.org/course/56280/promo)
-  - [Hadoop. Система для обработки больших объемов данных](https://stepik.org/course/150/promo)
-
-- Язык программирования R
-  - [Основы программирования на R](https://stepik.org/course/497/promo#toc)
   - [Анализ данных в R](https://stepik.org/course/129/promo)
   - [Анализ данных в R. Часть 2](https://stepik.org/course/724/promo)
+ 
+- Базы данных
+  - [Основы SQl](https://stepik.org/course/63054/promo)
+  - [Свободное погружение в СУБД](https://stepik.org/course/70710/promo)
+  - [Hadoop. Система для обработки больших объемов данных](https://stepik.org/course/150/promo)
 
 - Другое
   - [Основы Git](https://stepik.org/course/3145/promo)
   - ["Изучаем python" М. Лутц](https://codernet.ru/books/python/izuchaem_python_4-e_izdanie_mark_lutc/)
   - [Справочник по линейной алгебре](https://elar.urfu.ru/bitstream/10995/78551/1/978-5-7996-2776-8_2019.pdf)
-  - [Свободное погружение в СУБД](https://stepik.org/course/70710/promo)
   - [Машинное обучение и анализ данных (специализация)](https://www.coursera.org/specializations/machine-learning-data-analysis?aid=true#courses)
