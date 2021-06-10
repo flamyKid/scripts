@@ -9,7 +9,9 @@
 
 - Математика
   - [Дискретная математика](https://stepik.org/course/1127/promo)
-  - [Линейная алгебра](https://stepik.org/course/2461/promo)
+  - Линейная алгебра
+    - [Сущность линейной алгебры](https://www.youtube.com/watch?v=RNTRYicPvWQ&list=PLVjLpKXnAGLXPaS7FRBjd5yZeXwJxZil2)
+    - [Справочник по линейной алгебре](https://elar.urfu.ru/bitstream/10995/78551/1/978-5-7996-2776-8_2019.pdf)
   - [Математический анализ](https://stepik.org/course/95/promo)
   - [Теория вероятностей](https://stepik.org/course/3089/promo)
   - [Основы статистики](https://stepik.org/course/76/promo)
