@@ -1,4 +1,4 @@
-# План Data Science (основы)
+# План Data Science
 - Основы программирования
   - [Программирование на python](https://stepik.org/course/67/promo)
   - [Python: основы и применение](https://stepik.org/course/512/promo)
