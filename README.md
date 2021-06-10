@@ -8,6 +8,7 @@
   - [Основы SQl](https://stepik.org/course/63054/promo)
 
 - Математика
+  - [Дискретная математика](https://stepik.org/course/1127/promo)
   - [Линейная алгебра](https://stepik.org/course/2461/promo)
   - [Математический анализ](https://stepik.org/course/95/promo)
   - [Теория вероятностей](https://stepik.org/course/3089/promo)
@@ -37,7 +38,6 @@
 
 - Другое
   - [Основы Git](https://stepik.org/course/3145/promo)
-  - [Дискретная математика](https://stepik.org/course/1127/promo)
   - [Основы программирования для Linux](https://stepik.org/course/548/promo)
   - ["Изучаем python" М. Лутц](https://codernet.ru/books/python/izuchaem_python_4-e_izdanie_mark_lutc/)
   - [Свободное погружение в СУБД](https://stepik.org/course/70710/promo)
