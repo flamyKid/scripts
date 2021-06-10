@@ -17,7 +17,6 @@
   - [Введение в Data Science и машинное обучение](https://stepik.org/course/4852/promo)
   - [Курс по машинному обучению](https://www.youtube.com/watch?v=OAy96yiWohk&list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl)
   - [Курс по глубокому обучению](https://dlcourse.ai/)
-  - [Курс по нейронным сетям](https://stepik.org/course/401/promo)
   - [Нейронные сети и компьютерное зрение](https://stepik.org/course/50352/promo)
   - [Нейронные сети и обработка текста](https://stepik.org/course/54098/promo)
 
@@ -40,5 +39,6 @@
   - [Дискретная математика](https://stepik.org/course/1127/promo)
   - [Введение в Linux](https://stepik.org/course/73/promo)
   - [Свободное погружение в СУБД](https://stepik.org/course/70710/promo)
+  - [Курс по нейронным сетям](https://stepik.org/course/401/promo)
   - [Полный курс по теории графов](https://stepik.org/course/5608/promo)
   - [Машинное обучение и анализ данных (специализация)](https://www.coursera.org/specializations/machine-learning-data-analysis?aid=true#courses)
