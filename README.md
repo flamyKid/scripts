@@ -41,5 +41,4 @@
   - [Основы программирования для Linux](https://stepik.org/course/548/promo)
   - ["Изучаем python" М. Лутц](https://codernet.ru/books/python/izuchaem_python_4-e_izdanie_mark_lutc/)
   - [Свободное погружение в СУБД](https://stepik.org/course/70710/promo)
-  - [Полный курс по теории графов](https://stepik.org/course/5608/promo)
   - [Машинное обучение и анализ данных (специализация)](https://www.coursera.org/specializations/machine-learning-data-analysis?aid=true#courses)
