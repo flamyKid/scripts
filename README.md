@@ -1,9 +1,14 @@
-# План Data Science (основное)
+# План Data Science
 - Основы программирования
   - [Программирование на python](https://stepik.org/course/67/promo)
   - [Python: основы и применение](https://stepik.org/course/512/promo)
+  - [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/promo)
+  - [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/promo)
+  - [Основы программирования на R](https://stepik.org/course/497/promo)
 
 - Математика
+  - [Дискретная математика](https://stepik.org/course/1127/promo)
+  - [Основы теории графов](https://stepik.org/course/126/promo)
   - [Линейная алгебра](https://www.youtube.com/watch?v=RNTRYicPvWQ&list=PLVjLpKXnAGLXPaS7FRBjd5yZeXwJxZil2)
   - [Математический анализ](https://stepik.org/course/95/promo)
   - [Теория вероятностей](https://stepik.org/course/3089/promo)
@@ -13,31 +18,22 @@
     - [Основы статистики. Часть 3](https://stepik.org/course/2152/promo)
   - [Методы оптимизации](https://elar.urfu.ru/bitstream/10995/48965/1/978-5-7996-2090-5_2017.pdf)
 
-- Машинное обучение и анализ данных
+- Машинное обучение
   - [Введение в Data Science и машинное обучение](https://stepik.org/course/4852/promo)
   - [Курс по машинному обучению](https://www.youtube.com/watch?v=OAy96yiWohk&list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl)
   - [Курс по глубокому обучению](https://dlcourse.ai/)
   - [Нейронные сети и компьютерное зрение](https://stepik.org/course/50352/promo)
   - [Нейронные сети и обработка текста](https://stepik.org/course/54098/promo)
+
+- Анализ и обработка данных
   - [Основы работы в Tableau](https://stepik.org/course/56280/promo)
-
-# Дополнительно (углубление)
-
-- Основы программирования и анализ данных на R
-  - [Основы программирования на R](https://stepik.org/course/497/promo)
-  - [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/promo)
-  - [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/promo)
   - [Анализ данных в R](https://stepik.org/course/129/promo)
   - [Анализ данных в R. Часть 2](https://stepik.org/course/724/promo)
+  - [Hadoop. Система для обработки больших объемов данных](https://stepik.org/course/150/promo)
 
-- Математика
-  - [Дискретная математика](https://stepik.org/course/1127/promo)
-  - [Основы теории графов](https://stepik.org/course/126/promo)
-
-- Хранение данных
+- Базы данных
   - [Основы SQl](https://stepik.org/course/63054/promo)
   - [Свободное погружение в СУБД](https://stepik.org/course/70710/promo)
-  - [Hadoop. Система для обработки больших объемов данных](https://stepik.org/course/150/promo)
 
 - Другое
   - [Основы Git](https://stepik.org/course/3145/promo)
