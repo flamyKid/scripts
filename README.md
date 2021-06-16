@@ -11,7 +11,6 @@
   - [Свободное погружение в СУБД](https://stepik.org/course/70710/promo)
 
 - Математика
-  - [Дискретная математика](https://stepik.org/course/1127/promo)
   - [Линейная алгебра](https://www.youtube.com/watch?v=RNTRYicPvWQ&list=PLVjLpKXnAGLXPaS7FRBjd5yZeXwJxZil2)
   - [Математический анализ](https://stepik.org/course/95/promo)
   - [Теория вероятностей](https://stepik.org/course/3089/promo)
@@ -40,6 +39,7 @@
 
 - Другое
   - [Основы Git](https://stepik.org/course/3145/promo)
+  - [Дискретная математика](https://stepik.org/course/1127/promo)
   - [Основы перечислительной комбинаторики](https://stepik.org/course/125/promo)
   - ["Изучаем python" М. Лутц](https://codernet.ru/books/python/izuchaem_python_4-e_izdanie_mark_lutc/)
   - [Справочник по линейной алгебре](https://elar.urfu.ru/bitstream/10995/78551/1/978-5-7996-2776-8_2019.pdf)
