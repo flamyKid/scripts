@@ -30,6 +30,7 @@
 
 - Анализ и обработка данных
   - [Основы работы в Tableau](https://stepik.org/course/56280/promo)
+  - [obviously.ai](https://www.obviously.ai/)
   - [Hadoop. Система для обработки больших объемов данных](https://stepik.org/course/150/promo)
 
 - Язык программирования R
