@@ -29,9 +29,9 @@
   - [Нейронные сети и обработка текста](https://stepik.org/course/54098/promo)
 
 - Анализ и обработка данных
-  - [Основы работы в Tableau](https://stepik.org/course/56280/promo)
   - [Статистический калькулятор](https://gallery.shinyapps.io/dist_calc/)
   - [Прогнозирующий калькулятор](https://www.obviously.ai/)
+  - [Основы работы в Tableau](https://stepik.org/course/56280/promo)
   - [Hadoop. Система для обработки больших объемов данных](https://stepik.org/course/150/promo)
 
 - Язык программирования R
