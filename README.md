@@ -42,5 +42,3 @@
   - [Основы Git](https://stepik.org/course/3145/promo)
   - [Статистический калькулятор](https://gallery.shinyapps.io/dist_calc/)
   - [Прогнозирующий калькулятор](https://www.obviously.ai/)
-  - [Справочник по линейной алгебре](https://elar.urfu.ru/bitstream/10995/78551/1/978-5-7996-2776-8_2019.pdf)
-  - [Справочник по статистике](https://docs.google.com/document/d/1d65yVxXWKK4ct-ircA_VfuQ9MbQOzs6Ezr6JQp7Gb4I/pub)
