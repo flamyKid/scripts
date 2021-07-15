@@ -1,26 +1,27 @@
 # План Data Science
 - Основы программирования
-  - [Программирование на python](https://stepik.org/course/67/promo)
-  - [Python: основы и применение](https://stepik.org/course/512/promo)
+  - Язык программирования Python
+    - [Программирование на python](https://stepik.org/course/67/promo)
+    - [Python: основы и применение](https://stepik.org/course/512/promo)
+    - ["Изучаем python" М. Лутц](https://codernet.ru/books/python/izuchaem_python_4-e_izdanie_mark_lutc/)
   - [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/promo)
   - [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/promo)
   - [Основы теории графов](https://stepik.org/course/126/promo)
 
-- Базы данных
-  - [Основы SQl](https://stepik.org/course/63054/promo)
-  - [Свободное погружение в СУБД](https://stepik.org/course/70710/promo)
-
 - Математика
-  - [Линейная алгебра](https://www.youtube.com/watch?v=RNTRYicPvWQ&list=PLVjLpKXnAGLXPaS7FRBjd5yZeXwJxZil2)
+  - Линейная алгебра
+    - [Курс по линейной алгебре](https://www.youtube.com/watch?v=RNTRYicPvWQ&list=PLVjLpKXnAGLXPaS7FRBjd5yZeXwJxZil2)
+    - [Справочник по линейной алгебре](https://elar.urfu.ru/bitstream/10995/78551/1/978-5-7996-2776-8_2019.pdf)
   - [Математический анализ](https://stepik.org/course/95/promo)
   - [Теория вероятностей](https://stepik.org/course/3089/promo)
   - Статистика
     - [Основы статистики](https://stepik.org/course/76/promo)
     - [Основы статистики. Часть 2](https://stepik.org/course/524/promo)
     - [Основы статистики. Часть 3](https://stepik.org/course/2152/promo)
+    - [Справочник по статистике](https://docs.google.com/document/d/1d65yVxXWKK4ct-ircA_VfuQ9MbQOzs6Ezr6JQp7Gb4I/pub)
   - [Методы оптимизации](https://elar.urfu.ru/bitstream/10995/48965/1/978-5-7996-2090-5_2017.pdf)
 
-- Машинное обучение
+- Машинное и глубокое обучение
   - [Введение в Data Science и машинное обучение](https://stepik.org/course/4852/promo)
   - [Курс по машинному обучению](https://stepik.org/course/8057/info)
   - [Курс по машинному обучению (ods.ai)](https://www.youtube.com/watch?v=OAy96yiWohk&list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl)
@@ -28,10 +29,14 @@
   - [Нейронные сети и компьютерное зрение](https://stepik.org/course/50352/promo)
   - [Нейронные сети и обработка текста](https://stepik.org/course/54098/promo)
 
-- Анализ и обработка данных
+- Анализ данных
   - [Статистический калькулятор](https://gallery.shinyapps.io/dist_calc/)
   - [Прогнозирующий калькулятор](https://www.obviously.ai/)
   - [Основы работы в Tableau](https://stepik.org/course/56280/promo)
+
+- Big Data
+  - [Основы SQl](https://stepik.org/course/63054/promo)
+  - [Свободное погружение в СУБД](https://stepik.org/course/70710/promo)
   - [Hadoop. Система для обработки больших объемов данных](https://stepik.org/course/150/promo)
 
 - Язык программирования R
@@ -41,7 +46,3 @@
 
 - Другое
   - [Основы Git](https://stepik.org/course/3145/promo)
-  - ["Изучаем python" М. Лутц](https://codernet.ru/books/python/izuchaem_python_4-e_izdanie_mark_lutc/)
-  - [Справочник по статистике](https://docs.google.com/document/d/1d65yVxXWKK4ct-ircA_VfuQ9MbQOzs6Ezr6JQp7Gb4I/pub)
-  - [Справочник по линейной алгебре](https://elar.urfu.ru/bitstream/10995/78551/1/978-5-7996-2776-8_2019.pdf)
-  - [Машинное обучение и анализ данных (специализация)](https://www.coursera.org/specializations/machine-learning-data-analysis?aid=true#courses)
