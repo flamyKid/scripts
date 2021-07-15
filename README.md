@@ -14,10 +14,11 @@
   - [Математический анализ](https://stepik.org/course/95/promo)
   - [Теория вероятностей](https://stepik.org/course/3089/promo)
   - [Методы оптимизации](https://elar.urfu.ru/bitstream/10995/48965/1/978-5-7996-2090-5_2017.pdf)
-  - Статистика
-    - [Основы статистики](https://stepik.org/course/76/promo)
-    - [Основы статистики. Часть 2](https://stepik.org/course/524/promo)
-    - [Основы статистики. Часть 3](https://stepik.org/course/2152/promo)
+
+- Статистика
+  - [Основы статистики](https://stepik.org/course/76/promo)
+  - [Основы статистики. Часть 2](https://stepik.org/course/524/promo)
+  - [Основы статистики. Часть 3](https://stepik.org/course/2152/promo)
 
 - Машинное обучение
   - [Введение в Data Science и машинное обучение](https://stepik.org/course/4852/promo)
