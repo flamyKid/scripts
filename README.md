@@ -21,15 +21,13 @@
     - [Справочник по статистике](https://docs.google.com/document/d/1d65yVxXWKK4ct-ircA_VfuQ9MbQOzs6Ezr6JQp7Gb4I/pub)
   - [Методы оптимизации](https://elar.urfu.ru/bitstream/10995/48965/1/978-5-7996-2090-5_2017.pdf)
 
-- Машинное и глубокое обучение
+- Data Science
   - [Введение в Data Science и машинное обучение](https://stepik.org/course/4852/promo)
   - [Курс по машинному обучению](https://stepik.org/course/8057/info)
   - [Курс по машинному обучению (ods.ai)](https://www.youtube.com/watch?v=OAy96yiWohk&list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl)
   - [Курс по глубокому обучению (ods.ai)](https://dlcourse.ai/)
   - [Нейронные сети и компьютерное зрение](https://stepik.org/course/50352/promo)
   - [Нейронные сети и обработка текста](https://stepik.org/course/54098/promo)
-
-- Анализ данных
   - [Статистический калькулятор](https://gallery.shinyapps.io/dist_calc/)
   - [Прогнозирующий калькулятор](https://www.obviously.ai/)
   - [Основы работы в Tableau](https://stepik.org/course/56280/promo)
