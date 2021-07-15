@@ -10,16 +10,13 @@
   - [Основы теории графов](https://stepik.org/course/126/promo)
 
 - Математика
-  - Линейная алгебра
-    - [Курс по линейной алгебре](https://www.youtube.com/watch?v=RNTRYicPvWQ&list=PLVjLpKXnAGLXPaS7FRBjd5yZeXwJxZil2)
-    - [Справочник по линейной алгебре](https://elar.urfu.ru/bitstream/10995/78551/1/978-5-7996-2776-8_2019.pdf)
+  - [Линейная алгебра](https://www.youtube.com/watch?v=RNTRYicPvWQ&list=PLVjLpKXnAGLXPaS7FRBjd5yZeXwJxZil2)
   - [Математический анализ](https://stepik.org/course/95/promo)
   - [Теория вероятностей](https://stepik.org/course/3089/promo)
   - Статистика
     - [Основы статистики](https://stepik.org/course/76/promo)
     - [Основы статистики. Часть 2](https://stepik.org/course/524/promo)
     - [Основы статистики. Часть 3](https://stepik.org/course/2152/promo)
-    - [Справочник по статистике](https://docs.google.com/document/d/1d65yVxXWKK4ct-ircA_VfuQ9MbQOzs6Ezr6JQp7Gb4I/pub)
   - [Методы оптимизации](https://elar.urfu.ru/bitstream/10995/48965/1/978-5-7996-2090-5_2017.pdf)
 
 - Data Science
@@ -29,8 +26,6 @@
   - [Курс по глубокому обучению (ods.ai)](https://dlcourse.ai/)
   - [Нейронные сети и компьютерное зрение](https://stepik.org/course/50352/promo)
   - [Нейронные сети и обработка текста](https://stepik.org/course/54098/promo)
-  - [Статистический калькулятор](https://gallery.shinyapps.io/dist_calc/)
-  - [Прогнозирующий калькулятор](https://www.obviously.ai/)
   - [Основы работы в Tableau](https://stepik.org/course/56280/promo)
 
 - Big Data
@@ -45,3 +40,7 @@
 
 - Другое
   - [Основы Git](https://stepik.org/course/3145/promo)
+  - [Статистический калькулятор](https://gallery.shinyapps.io/dist_calc/)
+  - [Прогнозирующий калькулятор](https://www.obviously.ai/)
+  - [Справочник по линейной алгебре](https://elar.urfu.ru/bitstream/10995/78551/1/978-5-7996-2776-8_2019.pdf)
+  - [Справочник по статистике](https://docs.google.com/document/d/1d65yVxXWKK4ct-ircA_VfuQ9MbQOzs6Ezr6JQp7Gb4I/pub)
