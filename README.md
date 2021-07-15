@@ -1,9 +1,10 @@
 # План Data Science
-- Основы программирования
-  - Язык программирования Python
+- Язык программирования Python
     - [Программирование на python](https://stepik.org/course/67/promo)
     - [Python: основы и применение](https://stepik.org/course/512/promo)
     - ["Изучаем python" М. Лутц](https://codernet.ru/books/python/izuchaem_python_4-e_izdanie_mark_lutc/)
+
+- Основы программирования
   - [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/promo)
   - [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/promo)
   - [Основы теории графов](https://stepik.org/course/126/promo)
