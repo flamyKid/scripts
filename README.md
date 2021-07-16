@@ -10,7 +10,7 @@
   - [Основы теории графов](https://stepik.org/course/126/promo)
   
 - Математика
-  - [Линейная алгебра](https://www.youtube.com/watch?v=RNTRYicPvWQ&list=PLVjLpKXnAGLXPaS7FRBjd5yZeXwJxZil2)
+  - [Линейная алгебра](https://elar.urfu.ru/bitstream/10995/78551/1/978-5-7996-2776-8_2019.pdf)
   - [Математический анализ](https://stepik.org/course/95/promo)
   - [Теория вероятностей](https://stepik.org/course/3089/promo)
   - [Методы оптимизации](https://elar.urfu.ru/bitstream/10995/48965/1/978-5-7996-2090-5_2017.pdf)
