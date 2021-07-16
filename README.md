@@ -44,4 +44,3 @@
   - [Основы Git](https://stepik.org/course/3145/promo)
   - [Основы работы в Tableau](https://stepik.org/course/56280/promo)
   - [Статистический калькулятор](https://gallery.shinyapps.io/dist_calc/)
-  - [Прогнозирующий калькулятор](https://www.obviously.ai/)
