@@ -23,7 +23,7 @@
 - Машинное обучение
   - [Введение в Data Science и машинное обучение](https://stepik.org/course/4852/promo)
   - [Курс по машинному обучению](https://stepik.org/course/8057/info)
-  - [Курс по машинному обучению (ods.ai)](https://www.youtube.com/watch?v=OAy96yiWohk&list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl)
+  - [Курс по машинному обучению (ods.ai)](https://www.youtube.com/playlist?list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl)
 
 - Глубокое обучение
   - [Курс по глубокому обучению (ods.ai)](https://dlcourse.ai/)
