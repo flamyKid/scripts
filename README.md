@@ -21,11 +21,11 @@
   - [Основы статистики. Часть 3](https://stepik.org/course/2152/promo)
 
 - Машинное обучение
-  - [Курс по машинному обучению на ods.ai](https://www.youtube.com/playlist?list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl)
+  - [mlcourse.ai](https://www.youtube.com/playlist?list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl)
   - [Курс по машинному обучению от К.В.Воронцова](https://www.youtube.com/playlist?list=PLJOzdkh8T5krxc4HsHbB8g8f0hu7973fK)
 
 - Глубокое обучение
-  - [Курс по глубокому обучению на ods.ai](https://dlcourse.ai/)
+  - [dlcourse.ai](https://dlcourse.ai/)
   - [Нейронные сети и компьютерное зрение](https://stepik.org/course/50352/promo)
   - [Нейронные сети и обработка текста](https://stepik.org/course/54098/promo)
 
