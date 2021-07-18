@@ -21,13 +21,11 @@
   - [Основы статистики. Часть 3](https://stepik.org/course/2152/promo)
 
 - Машинное обучение
-  - [Введение в Data Science и машинное обучение](https://stepik.org/course/4852/promo)
-  - [Курс по машинному обучению](https://stepik.org/course/8057/info)
-  - [Курс по машинному обучению (ods.ai)](https://www.youtube.com/playlist?list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl)
+  - [Курс по машинному обучению на ods.ai](https://www.youtube.com/playlist?list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl)
   - [Машинное обучение от Воронцова](https://www.youtube.com/playlist?list=PLJOzdkh8T5krxc4HsHbB8g8f0hu7973fK)
 
 - Глубокое обучение
-  - [Курс по глубокому обучению (ods.ai)](https://dlcourse.ai/)
+  - [Курс по глубокому обучению на ods.ai](https://dlcourse.ai/)
   - [Нейронные сети и компьютерное зрение](https://stepik.org/course/50352/promo)
   - [Нейронные сети и обработка текста](https://stepik.org/course/54098/promo)
 
@@ -45,3 +43,5 @@
   - [Основы Git](https://stepik.org/course/3145/promo)
   - [Основы работы в Tableau](https://stepik.org/course/56280/promo)
   - [Статистический калькулятор](https://gallery.shinyapps.io/dist_calc/)
+  - [Введение в Data Science и машинное обучение](https://stepik.org/course/4852/promo)
+  - [Курс по машинному обучению](https://stepik.org/course/8057/info)
