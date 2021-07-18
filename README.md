@@ -43,5 +43,3 @@
   - [Основы Git](https://stepik.org/course/3145/promo)
   - [Основы работы в Tableau](https://stepik.org/course/56280/promo)
   - [Статистический калькулятор](https://gallery.shinyapps.io/dist_calc/)
-  - [Введение в Data Science и машинное обучение](https://stepik.org/course/4852/promo)
-  - [Курс по машинному обучению](https://stepik.org/course/8057/info)
