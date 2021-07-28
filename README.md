@@ -22,6 +22,7 @@
 
 - Машинное обучение
   - [mlcourse.ai](https://www.youtube.com/playlist?list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl)
+  - [Введение в Data Science и машинное обучение](https://stepik.org/course/4852/promo)
   - [Машинное обучение от К.В. Воронцова](https://www.youtube.com/playlist?list=PLJOzdkh8T5krxc4HsHbB8g8f0hu7973fK)
 
 - Глубокое обучение
