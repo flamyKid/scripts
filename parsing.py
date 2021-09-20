@@ -1,4 +1,3 @@
-# после того, как я сменил направление у pulling, наработки парсинга я положил сюда.
 import re
 import requests
 from bs4 import BeautifulSoup
