@@ -1,5 +1,5 @@
+# моя первая программа (от 13.09.18)
 from random import randint
-
 
 print('___Дом с приведениями___')
 
@@ -20,5 +20,6 @@ while feeling_brave:
         print('Можешь идти дальше.')
         score = score + 1
     print('_________')
+
 print('Призрак! Беги!')
 print('Твои очки:', score)
